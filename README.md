@@ -6,23 +6,23 @@
 
 1. 项目首页，在首页下拉那个卡片是可以点击切换的另外一个卡片（index.html）
 
-   ![](1.png)
+   ![](https://github.com/liuxingzhumeng/Hotel_Website/blob/master/show/1.png)
 
 2.  今日特惠，里边有个靠js倒计时的功能（discount.html）
 
-   ![](2.png)
+   ![](https://github.com/liuxingzhumeng/Hotel_Website/blob/master/show/2.png)
 
 3.  进入店铺，选项图，是可以动态切换的（hotels.html）
 
-   ![](3.png)
+   ![](https://github.com/liuxingzhumeng/Hotel_Website/blob/master/show/3.png)
 
 4. 预定房间（subscribe.html）
 
-   ![](4.png)
+   ![](https://github.com/liuxingzhumeng/Hotel_Website/blob/master/show/4.png)
 
 5. 登录注册功能
 
-   ![](5.png)
+   ![](https://github.com/liuxingzhumeng/Hotel_Website/blob/master/show/5.png)
 
 
 
@@ -53,3 +53,5 @@ for (var i = 0; i < lis.length; i++) {
 清除CSS浮动带来的影响，设置浮动后，控件时没有高度的，所有内容容易重叠这时我们可以
 
 在浮动下边加个div，并添加属性去除浮动
+
+注意如果在本地看文档的话，可以吧https://github.com/liuxingzhumeng/Hotel_Website/blob/master/ 部分删掉 ，就可以正常显示图片了
